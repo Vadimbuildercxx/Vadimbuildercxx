@@ -18,6 +18,13 @@ Custom implementation of GPT-like architecture using NumPy
 - 🧠 Machine Learning
 - 🔗 [View Project](https://github.com/Vadimbuildercxx/NumpyGPT)
 
+### 🐍 mamba_fast_simple
+Fast JAX implementation of mamba
+- ⚡ Fast implementation 
+- ⚛️ Associative parallel scan
+- 🤗 Huggingface compatible 
+- 🔗 [View Project](https://github.com/Vadimbuildercxx/mamba_fast_simple)
+
 ### 🤖 Custom_nn
 Neural network framework built from scratch
 - 🐍 Python
