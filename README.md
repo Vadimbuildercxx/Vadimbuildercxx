@@ -8,12 +8,13 @@
 
 ### 🔄 looped_transformer
 Neural network architecture implementation focusing on sequential data processing
-- 🌟 5 Stars
+- 🌟 7 Stars
 - 📒 Jupyter Notebook
 - 🔗 [View Project](https://github.com/Vadimbuildercxx/looped_transformer)
 
 ### 🧮 NumpyGPT
 Custom implementation of GPT-like architecture using NumPy
+- 🌟 4 Stars
 - 🐍 Python
 - 🧠 Machine Learning
 - 🔗 [View Project](https://github.com/Vadimbuildercxx/NumpyGPT)
