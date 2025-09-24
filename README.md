@@ -8,7 +8,7 @@
 
 ### 🔄 looped_transformer
 Neural network architecture implementation focusing on sequential data processing
-- 🌟 7 Stars
+- 🌟 8 Stars
 - 📒 Jupyter Notebook
 - 🔗 [View Project](https://github.com/Vadimbuildercxx/looped_transformer)
 
